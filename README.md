@@ -5,6 +5,7 @@
 
 ## Summary
 Classical methods of Geostatistics present certain limitations to deal with large datasets, especially processing capacity limitations. In order to overcame this issue, this project proposed a method of subsamples to compute the semivariance estimates. 
+This work also presents a widely revision of the theoretical framework of Geostatistics.
 
 ***
 > [Report](https://github.com/AndrMenezes/si2015/raw/master/docs/final_report.pdf)
